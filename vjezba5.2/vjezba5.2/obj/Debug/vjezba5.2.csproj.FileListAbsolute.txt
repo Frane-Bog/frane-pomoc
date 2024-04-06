@@ -1,0 +1,13 @@
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\bin\Debug\vjezba5.2.exe.config
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\bin\Debug\vjezba5.2.exe
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\bin\Debug\vjezba5.2.pdb
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5.2.csproj.AssemblyReference.cache
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5.2.csproj.SuggestedBindingRedirects.cache
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5._2.Form2.resources
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5._2.Properties.Resources.resources
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5.2.csproj.GenerateResource.cache
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5.2.csproj.CoreCompileInputs.cache
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5.2.exe
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5.2.pdb
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5._2.Form1.resources
+d:\Users\Korisnik\Desktop\informatika iva\vjezba5.2\vjezba5.2\obj\Debug\vjezba5._2.Form3.resources
