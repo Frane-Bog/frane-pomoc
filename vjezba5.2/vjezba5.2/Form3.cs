@@ -28,13 +28,13 @@ namespace vjezba5._2
             while (linija != null)
             {
                 var razlomiti = new string[] { "|" };
-
+                popisUcenika.Add(new Ucenik(linija)); 
                 foreach (var c in razlomiti)
                 {
                     linija = linija.Replace(c, " ");
                 }
                 
-                popisUcenika.Add(new Ucenik(linija)); 
+
                 listBox1.Items.Add(linija);
                 linija = sr.ReadLine();
 
